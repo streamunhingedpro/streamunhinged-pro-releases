@@ -143,8 +143,8 @@ This guide describes the app as it is built and tested today. Where something ha
 
 ## 5a. Getting help
 
-- **Contact:** message StreamUnhinged Pro through Whop (open the StreamUnhinged Pro membership in your Whop account
-  and use its support chat).
+- **Contact:** message StreamUnhinged Pro through Whop. Open your StreamUnhinged Pro membership or purchase details
+  in your Whop account and use the message link to StreamUnhinged Studio.
 - **Include:** what you were doing, the exact message on screen, and your Windows version. If an edit failed,
   create a support bundle in Settings › Diagnostics and attach it. It contains no video and no licence key.
 - **Never send** your licence key in a public place. Support never asks for your Whop password.
